@@ -145,8 +145,8 @@ export function FeaturesSection() {
               <SpeedIndicator />
             </div>
             <div className="mt-4">
-              <h3 className="font-serif text-xl text-foreground">Скорость</h3>
-              <p className="text-muted-foreground text-sm mt-1">Молниеносная загрузка страниц для ваших гостей.</p>
+              <h3 className="font-serif text-xl text-foreground">Быстрая обработка</h3>
+              <p className="text-muted-foreground text-sm mt-1">Готовые фото в течение 5–7 дней после съёмки.</p>
             </div>
           </motion.div>
         </div>
